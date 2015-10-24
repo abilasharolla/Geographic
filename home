@@ -1,0 +1,74 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>National Geographic</title>
+<meta http=equiv "content=text/html"; charset=utf-8" />
+<style type="text/css">
+* {padding:0;margin:0;}
+a {text-decoration:none;}
+p {padding:10px;}
+
+.container {width:1300px; margin-left:auto; margin-right:auto;}
+.header {background-color:#D4FFA9;}
+.header h1 {color:white; line-height:80px;}
+.header img {float:left; height:90px; width:100px;padding:5px;margin-right-side:10px;}
+.nav {background-color:#99B87A; width:200px; float:left;}
+.nav ul {margin:15px;list-style-type:none;}
+.official {float:left; width:700px;}
+.login { background-color:green;float:left;width:250px;}
+.login input {width:100px;margin:10px;}
+.login button {margin:10px;}
+.side {margin:10px;float:left;width:250px;}
+.footer {clear:left;background-color:yellow;}
+</style>
+</head>
+<body background="Wallpaper-Light-Green-Kreise-720x1280.jpg">
+<div class="container">
+<div class="header">
+<img src="National-Geographic-logo-yellow-frame.png" alt="yellow square">
+<h1 align="center-left-side"><strong>National Geographic</strong></h1>
+</div>
+<div class="nav">
+<p><strong>Navigation</strong></p>
+<ul>
+<li><a href="home.html">HOME<a></li><br>
+<li><a href="travel.html">TRAVEL<a></li><br>
+<li><a href="visit.html">VISIT<a></li><br>
+<li><a href="books.html">BOOKS<a></li><br>
+<li><a href="travellors.html">TRAVELLORS<a></li><br>
+<li><a href="contact.html">CONTACT<a></li><br>
+</ul>
+</div>
+<div class="official">
+<p><strong>Welcome to offcial</strong></p>
+<p>In a California memorabilia shop in 2010, collector Randy Guijarro bought this 4-by-5-inch tintype for just $2. After enlarging the image, he saw what looked to be a familiar figure—Billy the Kid—playing croquet with his gang known as The Regulators. Guijarro also thought he recognized the Kid's best friends Tom O'Folliard and Charlie Bowdre in the photo. As the gravity of the discovery began to set in, Guijarro initiated a chain of events that would lead him on a painstaking journey to verify the photograph's authenticity.</p>
+<p>The National Geographic Society was founded in 1888 "to increase and diffuse geographic knowledge." The Society believes in the power of science, exploration and storytelling to change the world, and its purpose is to inspire, illuminate and teach. National Geographic is governed by a board of trustees, whose 21 members include distinguished educators, business executives, former government officials and conservationists</p>
+<p>The organization sponsors and funds scientific research and exploration. The Society publishes a journal, National Geographic, in English and nearly 40 local-language editions. It also publishes other magazines, books, school products, maps, and Web and film products in numerous languages and countries. Its Education Foundation gives grants to education organizations and individuals to improve geography education.[2] Its Committee for Research and Exploration has awarded more than 11,000 grants for scientific research and exploration.</p>
+<p>National Geographic's various media properties reach more than 700 million people monthly.[3] National Geographic maintains a museum for the public in its Washington, D.C., headquarters. It has helped to sponsor popular traveling exhibits, such as an early 2010s "King Tut" exhibit featuring magnificent artifacts from the tomb of the young Egyptian Pharaoh; "The Cultural Treasures of Afghanistan" which opened in May 2008 and traveled to other cities for 18 months; and an exhibition of China's Terracotta Warriors in its Washington headquarters in 2009–10</p>
+<p>National Geographic has retail stores in Washington, D.C., London, Sydney, and Panama. The locations outside of the United States are operated by Worldwide Retail Store S.L., a Spanish holding company.</p>
+
+</div>
+<div class="login">
+<form action=" " name="myform">
+<p><strong>LOGIN</strong></p>
+<p>USERNAME:</p>
+<input type="text" name="user"  pattern="[A-Za-z\\s]*" placeholder="username" title="only alphabets" required>
+<p>PASSWORD:</p>
+<input type="password" placeholder="password"><br><br>
+<input type="submit">
+</form>
+</div>
+<div class="side">
+<p>Thank you for your interest in contacting Wikipedia. Before proceeding, some important disclaimers:
+
+Wikipedia has no central editorial board; contributions are made by a large number of volunteers at their own discretion. Edits are not the responsibility of the Wikimedia Foundation (the organisation that hosts the site) nor of its staff and edits will not generally be made in response to an email request.
+If you have questions about the concept of Wikipedia rather than a specific problem, the About Wikipedia page may help.
+The links on the left should direct you to how to contact us or resolve problems. If you cannot find your issue listed there, please email us at info-en@wikimedia.org .</p>
+</div>
+<div class="footer">
+<p>© 1996-2015 National Geographic Channel. All rights reserved.</p>
+</div>
+</div>
+</body>
+</html>
